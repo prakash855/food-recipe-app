@@ -1,0 +1,30 @@
+* {
+  font-family: "Pacifico", cursive;
+  /* font-family: "Josefin Sans", sans-serif; */
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 3rem;
+  background-image: linear-gradient(to top, #30ffd0 0%, #584570 100%);
+}
+.search-bar {
+  width: 60%;
+  height: 7vh;
+  border-radius: 10px;
+  outline: none;
+  border: 1px solid gray;
+  font-size: 1.5rem;
+}
+.search-button {
+  position: relative;
+  top: -5px;
+  width: 20%;
+  margin: 1rem;
+  border-radius: 10px;
+  height: 7vh;
+  border: none;
+  background: green;
+  color: white;
+}
